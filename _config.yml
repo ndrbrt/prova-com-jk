@@ -5,7 +5,7 @@ meta_description: "Your New Jekyll Site, Blogging about stuffs"
 markdown: kramdown
 highlighter: pygments
 logo: false
-paginate: 15
+paginate: 3
 baseurl: /prova-com-jk/
 domain_name: 'https://ndrbrt.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
