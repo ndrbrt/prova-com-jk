@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 3
-baseurl: /prova-com-jk/
+baseurl: ''
 domain_name: 'https://ndrbrt.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
