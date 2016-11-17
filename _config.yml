@@ -1,16 +1,16 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: "Cultures & Codes"
+description: "Blogging about design, cognition and stuffs"
+meta_description: "Cultures & Codes, Blogging about design, epistemology and stuffs"
 
 markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 3
 baseurl: ''
-domain_name: 'https://ndrbrt.github.io'
+domain_name: 'https://ndrbrt.github.io/prova-com-jk'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         #'Your Name'

@@ -196,3 +196,27 @@
     color: #008080; }
   .highlight .il {
     color: #009999; }
+
+.no-cover.main-header {
+  background-color: #FFF; }
+
+.page-description {
+  font-size: 1.75rem; }
+
+h2.post-title {
+  margin-bottom: 0px; }
+
+.post-excerpt > h2 {
+  font-size: 2rem; }
+
+.post-header > h1 {
+  margin: 0px; }
+
+.post-header > .post-meta {
+  margin-top: 0px;
+  margin-bottom: 1.75em; }
+
+.post-header > .post-meta > .post-date {
+  border: 0px;
+  padding: 0px;
+  margin: 0px; }
